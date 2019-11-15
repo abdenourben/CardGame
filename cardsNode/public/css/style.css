@@ -932,12 +932,12 @@ bottom: -250px;
 
 .bottom-pop-choice .btn {
   margin: 1em;
-  right: 0;
+  left: 0;
   position: absolute;
 }
 
 .btn-comment-trade {
-  right: 7.5em;
+  left: 10.7em;
   margin: 1.3em;
   position: absolute;
 }
@@ -988,12 +988,12 @@ bottom: -250px;
 
 .bottom-pop-choice-prof .btn {
   margin: 1em;
-  right: 0;
+  left: 0;
   position: absolute;
 }
 
 .btn-comment-replace {
-  right: 7.5em;
+  left: 12.7em;
   margin: 1.3em;
   position: absolute;
 }
